@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project represents my engineering thesis, aimed at developing a comprehensive system that encompasses both the mechanical construction of a robotic hand and the controlling software. The operator's hand movements are captured by a webcam, and through the utilization of tools such as OpenCV, the state of the fingers (extended or bent) is determined. This information is then transmitted to the effector using the MQTT protocol, enabling precise replication of human hand movements by the robotic counterpart. 
+This repository represents the software of my engineering thesis, aimed at developing a comprehensive system that encompasses both the mechanical construction of a robotic hand and the controlling software. The operator's hand movements are captured by a webcam, and through the utilization of tools such as OpenCV, the state of the fingers (extended or bent) is determined. This information is then transmitted to the effector using the MQTT protocol, enabling precise replication of human hand movements by the robotic counterpart. 
 
 ## Features
 
