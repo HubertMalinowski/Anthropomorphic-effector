@@ -2,8 +2,8 @@
 #include <PubSubClient.h>
 #include <ESP32Servo.h>
 
-const char* ssid = "Orange_Swiatlowod_0880";       // Nazwa sieci WiFi
-const char* password = "wZDwL7NZChG3d4RH4H";         // Hasło sieci WiFi
+const char* ssid = "Bombardiro Crocodilo";       // Nazwa sieci WiFi
+const char* password = "Tralalelo Tralala";         // Hasło sieci WiFi
 
 const char* mqtt_server = "192.168.1.128";      // Adres brokera MQTT
 const int mqtt_port = 1883;                          // Port brokera MQTT
